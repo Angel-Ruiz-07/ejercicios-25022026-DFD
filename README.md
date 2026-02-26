@@ -1,5 +1,5 @@
 # Ejercicios 25/02/2026 - DFD
-## integrantes
+## Integrantes
 - Angel David Ruiz Rojas – ID 1120502
 - Sharith Vanessa Sanchez Rubio – ID 1139057
 ## Tema
